@@ -1,1 +1,2 @@
-# javascriipt-algorithms
+# javascript-algorithms
+
